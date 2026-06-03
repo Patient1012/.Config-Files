@@ -1,2 +1,6 @@
 # .Config-Files
-My .config files for linux
+My .config files for:
+-kitty
+-Hyprland
+-Waybar
+-rofi
